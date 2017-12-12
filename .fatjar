@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Thu Sep 28 20:11:03 CST 2017
+onejar.license.required=false
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=true
+jarname=C\:\\Users\\Administrator\\Desktop\\Novels_fat.jar
+manifest.mergeall=true
+manifest.mainclass=com.ty.book.km.bookv2
+manifest.file=<createnew>
+jarname.isextern=true
+onejar.expand=
+excludes=
+includes=
